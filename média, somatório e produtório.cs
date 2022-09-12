@@ -1,11 +1,3 @@
-/******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 using System;
 class média {
   static void Main() {
@@ -13,7 +5,7 @@ class média {
     int a, b, c, s, p;
     double m;
     //a, b e c são os números pedidos
-    // m=média, s=somatório, p= produtório
+    // m=média, s=somatório, p=produtório
     
     Console.WriteLine("Digite o primeiro número");
     a=int.Parse(Console.ReadLine ());
